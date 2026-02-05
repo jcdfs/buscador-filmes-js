@@ -1,0 +1,16 @@
+#lista-filmes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 200px;
+}
+
+#lista-filmes div {
+  width: 200px;
+  text-align: center;
+}
+
+#lista-filmes img {
+  width: 100%;
+  border-radius: 8px;
+}
